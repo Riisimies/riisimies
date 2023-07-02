@@ -4,6 +4,7 @@
 
 <a>
       <img width="200" height="28" src="https://komarev.com/ghpvc/?username=Riisimies&style=flat-square&color=6f03fc" alt=""/>
+      <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </a>
 
 
