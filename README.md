@@ -1,8 +1,4 @@
-<p align="center">
-    <a href="#">
-        <img src="./Riis.gif">
-    </a>
-</p>
+
 
 <div align="center">
   
