@@ -1,3 +1,9 @@
+<p align="center">
+    <a href="#">
+        <img src="./Riis.gif">
+    </a>
+</p>
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000&center=true&width=435&lines=Riisimies)](https://git.io/typing-svg)
