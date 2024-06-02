@@ -17,7 +17,7 @@
 <hr /> 
 
 <a href="https://github.com/Riisimies">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riisimies&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=000000&icon_color=fff&bg_color=121212" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Riisimies&show_icons=true&line_height=27&count_private=true&title_color=695497&text_color=695497&icon_color=695497&bg_color=121212" />
 </a>
   
 <div align="center">
