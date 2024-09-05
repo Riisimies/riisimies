@@ -1,6 +1,6 @@
 <p align="center">
     <a href="#">
-        <img src="./riisimies.gif" alt="Riisimies GIF">
+        <img src="./profile.gif" alt="Riisimies GIF">
     </a>
 </p>
 
