@@ -18,6 +18,10 @@
     </a>
 </div>
 
+<div align="center">
+    <h2>⭐ Taitaja2025-finalist — <a href="https://www.skillsfinland.fi/taitaja-tapahtuma" target="_blank">206 Web-development</a> ⭐</h2>
+</div>
+
 <hr />
 
 <h3 align="center">Languages & Technologies</h3>
