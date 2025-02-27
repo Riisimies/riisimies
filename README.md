@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### 🌟 About Me 
+### 🌟 About Me 🌟
 
 <a href="https://discord.com/users/1027723033860898867" target="_blank">
     <img alt="Discord Profile" src="https://img.shields.io/badge/My%20Discord%20Profile-black?style=for-the-badge&logo=discord&logoColor=7289DA" />
