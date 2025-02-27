@@ -25,12 +25,18 @@
     <img alt="Lua" src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=2C2D72" />
     <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6" />
-    <img alt="PHP" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=339933" />
     <img alt="React.js" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+    <img alt="Bulma CSS" src="https://img.shields.io/badge/Bulma-black?style=for-the-badge&logo=bulma&logoColor=00D1B2" />
+    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-black?style=for-the-badge&logo=wordpress&logoColor=21759B" />
     <img alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032" />
+    <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-black?style=for-the-badge&logo=cloudflare&logoColor=F38020" />
 </div>
 
 <hr />
