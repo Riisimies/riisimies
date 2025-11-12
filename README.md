@@ -55,9 +55,6 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB" />
 <img alt="PHP" src="https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php&logoColor=777BB4" />
 <img alt="Lua" src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua&logoColor=2C2D72" />
-
-<br />
-
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 <img alt="Bulma CSS" src="https://img.shields.io/badge/Bulma-black?style=for-the-badge&logo=bulma&logoColor=00D1B2" />
