@@ -45,7 +45,6 @@
 
 <div align="center">
 
-
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css&logoColor=1572B6" />
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -58,7 +57,6 @@
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
 <img alt="Bulma CSS" src="https://img.shields.io/badge/Bulma-black?style=for-the-badge&logo=bulma&logoColor=00D1B2" />
-<img alt="Chakra UI" src="https://img.shields.io/badge/Chakra_UI-black?style=for-the-badge&logo=chakraui&logoColor=319795" />
 
 <br />
 <br />
