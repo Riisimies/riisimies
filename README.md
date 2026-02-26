@@ -1,7 +1,5 @@
 <p align="center">
-    <a href="#">
-        <img src="https://r2.fivemanage.com/5dbvdOQLjVUdq2VBD8Kcw/welcome.gif" alt="Riisimies GIF">
-    </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7289DA&height=120&section=header&text=Riisimies&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <div align="center">
@@ -100,3 +98,7 @@
 **💬 Feel free to reach out for collaboration or just a chat!**
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7289DA&height=100&section=footer&animation=fadeIn" />
+</p>
