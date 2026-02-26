@@ -9,6 +9,7 @@
 <a href="https://discord.com/users/1027723033860898867" target="_blank">
     <img alt="Discord Profile" src="https://img.shields.io/badge/My%20Discord%20Profile-black?style=for-the-badge&logo=discord&logoColor=7289DA" />
 </a>
+
 <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=Riisimies&style=for-the-badge&color=000000&label=Profile%20Views" />
 <img alt="Passionate Developer" src="https://img.shields.io/badge/Passionate%20Developer-black?style=for-the-badge&logo=github&logoColor=7289DA" />
 <img alt="Always Learning" src="https://img.shields.io/badge/Always%20Learning-black?style=for-the-badge&logo=starship&logoColor=7289DA" />
@@ -17,9 +18,25 @@
 
 <hr />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Riisimies/Riisimies/main/education.svg" alt="Education" />
-</p>
+<h3 align="center">🎓 Education & Accomplishments 🏆</h3>
+
+<div align="center">
+  
+  <img alt="Turku AMK" src="https://img.shields.io/badge/Turku%20AMK-black?style=for-the-badge&logo=googlescholar&logoColor=7289DA" />
+  <img alt="ICT Engineer" src="https://img.shields.io/badge/ICT%20Engineer%20(Insinööri)-black?style=for-the-badge&logo=electron&logoColor=7289DA" />
+  <img alt="Currently Studying" src="https://img.shields.io/badge/Currently%20Studying-black?style=for-the-badge&logo=bookstack&logoColor=7289DA" />
+  
+  <br />
+  
+  <img alt="Turun Ammatti-Instituutti" src="https://img.shields.io/badge/Turun%20Ammatti--Instituutti-black?style=for-the-badge&logo=googlescholar&logoColor=7289DA" />
+  <img alt="Software Developer" src="https://img.shields.io/badge/Software%20Developer%20(Ohjelmistokehittäjä)-black?style=for-the-badge&logo=codio&logoColor=7289DA" />
+  <img alt="Graduated" src="https://img.shields.io/badge/Graduated-black?style=for-the-badge&logo=checkmarx&logoColor=7289DA" />
+
+  <br />
+  
+  <img alt="Taitaja2025 Finalist" src="https://img.shields.io/badge/Taitaja2025%20Finalist-black?style=for-the-badge&logo=fireship&logoColor=7289DA" />
+  
+</div>
 
 <hr />
 
