@@ -57,10 +57,10 @@
 
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="47.5%">
+    <td align="center" width="47.3%">
       <img src="https://streak-stats.demolab.com?user=Riisimies&theme=dark&hide_border=true&background=000000&stroke=7289DA&ring=7289DA&fire=7289DA&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&border_radius=6" alt="GitHub Streak" />
     </td>
-    <td align="center" width="52.5%">
+    <td align="center" width="52.7%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riisimies&bg_color=000000&color=7289DA&line=7289DA&point=FFFFFF&area=true&hide_border=true&radius=12" alt="Activity Graph" />
     </td>
   </tr>
