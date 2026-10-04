@@ -35,7 +35,12 @@
   <br />
   
   <img alt="Taitaja2025 Finalist" src="https://img.shields.io/badge/Taitaja2025%20Finalist-black?style=for-the-badge&logo=fireship&logoColor=7289DA" />
-  
+  <img alt="Since AI Hackathon" src="https://img.shields.io/badge/Since%20AI%20Hackathon-Participant-black?style=for-the-badge&logo=rocket&logoColor=7289DA" />
+
+  <br /><br />
+
+  <img alt="AWS Academy Cloud Foundations Trained" src="aws-academy-cloud-foundations.png" width="130" />
+
 </div>
 
 <hr />
