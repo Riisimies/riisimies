@@ -6,7 +6,7 @@
   <a href="https://discord.com/users/1027723033860898867">
     <img alt="Riisimies - education and achievements" src="https://raw.githubusercontent.com/Riisimies/Riisimies/kortti/profile.svg" width="100%" />
   </a>
-  <img alt="" src="https://komarev.com/ghpvc/?username=Riisimies&label=Views&style=flat" width="1" height="1" />
+  <img alt="" src="https://komarev.com/ghpvc/?username=Riisimies&label=Views&style=flat" width="0" height="0" />
 </p>
 
 <p align="center">
