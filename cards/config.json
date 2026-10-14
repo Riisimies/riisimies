@@ -1,0 +1,120 @@
+{
+  "username": "Riisimies",
+  "timeZone": "Europe/Helsinki",
+  "accent": "#8B5CF6",
+  "tech": [
+    {
+      "slug": "html5",
+      "label": "HTML"
+    },
+    {
+      "slug": "css",
+      "label": "CSS"
+    },
+    {
+      "slug": "javascript",
+      "label": "JavaScript"
+    },
+    {
+      "slug": "typescript",
+      "label": "TypeScript"
+    },
+    {
+      "slug": "react",
+      "label": "React"
+    },
+    {
+      "slug": "nodedotjs",
+      "label": "Node.js"
+    },
+    {
+      "slug": "python",
+      "label": "Python"
+    },
+    {
+      "slug": "php",
+      "label": "PHP"
+    },
+    {
+      "slug": "lua",
+      "label": "Lua"
+    },
+    {
+      "slug": "fivem",
+      "label": "FiveM"
+    },
+    {
+      "slug": "tailwindcss",
+      "label": "Tailwind"
+    },
+    {
+      "slug": "vite",
+      "label": "Vite"
+    },
+    {
+      "slug": "bootstrap",
+      "label": "Bootstrap"
+    },
+    {
+      "slug": "mysql",
+      "label": "MySQL"
+    },
+    {
+      "slug": "git",
+      "label": "Git"
+    },
+    {
+      "slug": "docker",
+      "label": "Docker"
+    },
+    {
+      "slug": "github",
+      "label": "GitHub"
+    },
+    {
+      "slug": "figma",
+      "label": "Figma"
+    },
+    {
+      "slug": "cloudflare",
+      "label": "Cloudflare"
+    },
+    {
+      "slug": "wordpress",
+      "label": "WordPress"
+    }
+  ],
+  "profile": {
+    "name": "Riisimies",
+    "tagline": "Software developer & ICT engineering student",
+    "pills": [
+      {
+        "label": "Discord profile",
+        "icon": "discord"
+      },
+      {
+        "label": "Profile views",
+        "icon": "eye"
+      }
+    ],
+    "education": [
+      {
+        "school": "Turku AMK",
+        "title": "ICT Engineer (Insinööri)",
+        "status": "Currently studying",
+        "active": true
+      },
+      {
+        "school": "Turun Ammatti-Instituutti",
+        "title": "Software Developer (Ohjelmistokehittäjä)",
+        "status": "Graduated",
+        "active": false
+      }
+    ],
+    "achievements": [
+      "Taitaja2025 Finalist",
+      "Since AI Hackathon · Participant",
+      "AWS Academy Cloud Foundations · Trained"
+    ]
+  }
+}

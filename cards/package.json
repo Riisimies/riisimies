@@ -1,0 +1,8 @@
+{
+  "name": "profile-cards",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "simple-icons": "^14.0.0"
+  }
+}
