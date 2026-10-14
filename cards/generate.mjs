@@ -328,7 +328,26 @@ function star(cx, cy, r) {
   }
   return pts.join(" ");
 }
-function profileCard() {
+async function viewCount() {
+  const u = cfg.profile && cfg.profile.viewsUrl;
+  if (!u || demo) return null;
+  try {
+    const r = await fetch(u, { headers: { "user-agent": "profile-cards" } });
+    const t = await r.text();
+    const m = [...t.matchAll(/>\s*([\d][\d,.\s]*)\s*</g)].map((x) => x[1].replace(/[^\d]/g, "")).filter(Boolean);
+    return m.length ? Number(m[m.length - 1]) : null;
+  } catch {
+    return null;
+  }
+}
+function imageData(rel) {
+  try {
+    return "data:image/png;base64," + fs.readFileSync(new URL(rel, import.meta.url)).toString("base64");
+  } catch {
+    return null;
+  }
+}
+function profileCard(views) {
   const p = cfg.profile || {};
   const W = 840, H = 292;
   let out = `<text x="32" y="66" font-size="40" font-weight="800" fill="url(#numGrad)">${esc(p.name || USER)}</text>`;
@@ -340,10 +359,11 @@ function profileCard() {
       : discord ? `<g transform="translate(${x},${y}) scale(0.7083)"><path d="${discord.path}" fill="${ACCENT_LIGHT}"/></g>` : "";
   let px = 808;
   [...(p.pills || [])].reverse().forEach((pill) => {
-    const w = Math.round(pill.label.length * 6.6 + 54), x = px - w;
+    const label = pill.icon === "eye" && views != null ? `${pill.label} · ${views.toLocaleString("en-US")}` : pill.label;
+    const w = Math.round(label.length * 6.6 + 54), x = px - w;
     out += `<rect x="${x + 0.5}" y="35.5" width="${w - 1}" height="33" rx="16.5" fill="${PANEL}" stroke="${ACCENT}" stroke-opacity="0.45"/>`;
     out += iconFor(pill.icon, x + 15, 44);
-    out += T(x + 39, 57, pill.label, { size: 12.5, weight: 600, fill: ACCENT_LIGHT });
+    out += T(x + 39, 57, label, { size: 12.5, weight: 600, fill: ACCENT_LIGHT });
     px = x - 10;
   });
   out += `<rect x="32" y="112" width="392" height="156" rx="14" fill="${PANEL}" stroke="${PANEL_STROKE}"/>`;
@@ -364,8 +384,12 @@ function profileCard() {
   (p.achievements || []).forEach((a, i) => {
     const y = 152 + i * 36;
     out += `<rect x="452" y="${y}" width="340" height="28" rx="10" fill="#121216" stroke="${PANEL_STROKE}"/>`;
-    out += `<polygon points="${star(471, y + 14, 7)}" fill="${ACCENT_LIGHT}"/>`;
-    out += T(488, y + 18, a, { size: 13, weight: 500, fill: "#fff" });
+    const item = typeof a === "string" ? { text: a } : a;
+    const img = item.image ? imageData(item.image) : null;
+    out += img
+      ? `<image href="${img}" x="462" y="${y + 5}" width="18" height="18" preserveAspectRatio="xMidYMid meet"/>`
+      : `<polygon points="${star(471, y + 14, 7)}" fill="${ACCENT_LIGHT}"/>`;
+    out += T(488, y + 18, item.text, { size: 13, weight: 500, fill: "#fff" });
   });
   return wrap(W, H, out, NUMGRAD);
 }
@@ -375,6 +399,6 @@ fs.mkdirSync(outDir, { recursive: true });
 fs.writeFileSync(path.join(outDir, "stats.svg"), statsCard(data));
 fs.writeFileSync(path.join(outDir, "city.svg"), cityCard(data));
 fs.writeFileSync(path.join(outDir, "tech.svg"), techCard());
-fs.writeFileSync(path.join(outDir, "profile.svg"), profileCard());
+fs.writeFileSync(path.join(outDir, "profile.svg"), profileCard(await viewCount()));
 const s = stats(data.days);
 console.log(`${demo ? "[demo] " : ""}wrote 4 cards to ${outDir} — ${s.total} contributions, streak ${s.cur}/${s.longest}`);

@@ -3,12 +3,11 @@
 </p>
 
 <p align="center">
-  <img alt="Riisimies - education and achievements" src="https://raw.githubusercontent.com/Riisimies/Riisimies/kortti/profile.svg" width="100%" />
+  <a href="https://discord.com/users/1027723033860898867">
+    <img alt="Riisimies - education and achievements" src="https://raw.githubusercontent.com/Riisimies/Riisimies/kortti/profile.svg" width="100%" />
+  </a>
+  <img alt="" src="https://komarev.com/ghpvc/?username=Riisimies&label=Views&style=flat" width="1" height="1" />
 </p>
-
-<div align="center">
-  <img alt="AWS Academy Cloud Foundations Trained" src="aws-academy-cloud-foundations.png" width="130" />
-</div>
 
 <p align="center">
   <img alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Python, PHP, Lua, FiveM, Tailwind, Vite, Bootstrap, MySQL, Git, Docker, GitHub, Figma, Cloudflare, WordPress" src="https://raw.githubusercontent.com/Riisimies/Riisimies/kortti/tech.svg" width="100%" />

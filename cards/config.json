@@ -112,9 +112,19 @@
       }
     ],
     "achievements": [
-      "Taitaja2025 Finalist",
-      "Since AI Hackathon · Participant",
-      "AWS Academy Cloud Foundations · Trained"
-    ]
+      {
+        "text": "Taitaja2025 Finalist",
+        "image": "taitaja.png"
+      },
+      {
+        "text": "Since AI Hackathon · Participant",
+        "image": "since-ai.png"
+      },
+      {
+        "text": "AWS Academy Cloud Foundations · Trained",
+        "image": "aws-academy-cloud-foundations.png"
+      }
+    ],
+    "viewsUrl": "https://komarev.com/ghpvc/?username=Riisimies&label=Views&style=flat"
   }
 }
